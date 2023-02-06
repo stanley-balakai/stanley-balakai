@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Dylan Kotzer
+
+## Full-Stack Developer from Toronto
+
+- 🔭 I’m currently working on **perfecting my Java skills ☕**
+
+- 🌱 I’m currently learning **Vue.js**
+
+- 👯 I’m looking to collaborate on **Interesting projects**
+
+- 📧 Ask me about **any of the projects on my github :)**
+
+- 📫 Contact me: (https://www.linkedin.com/in/stanley-balakai-a9a76b23b/) or stanleybalakai@gmail.com
+
+<br />
+
+<br />
