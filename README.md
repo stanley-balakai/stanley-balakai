@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📧 Ask me about **any of the projects on my github :)**
 
-- 📫 Contact me: (https://www.linkedin.com/in/stanley-balakai-a9a76b23b/) or stanleybalakai@gmail.com
+- 📫 Contact me: [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="react" width="30" height="25"/>](https://www.linkedin.com/in/stanley-balakai-a9a76b23b/) or stanleybalakai@gmail.com
 
 <br />
 
