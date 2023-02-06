@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Dylan Kotzer
-
-## Full-Stack Developer from Toronto
+# Hi 👋, I'm Stanley Balakai
 
 - 🔭 I’m currently working on **perfecting my Java skills ☕**
 
