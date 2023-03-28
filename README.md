@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Stanley Balakai
 
-- 🔭 I’m currently working on **perfecting my Java skills ☕**
+- 🔭 I’m currently working on **freelance full-stack development**
 
 - 🌱 I’m currently learning **Vue.js**
 
