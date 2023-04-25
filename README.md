@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **freelance full-stack development**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
